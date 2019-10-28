@@ -1,47 +1,49 @@
-Privacy Policy
+Brenden Salumbidez built the BD-RollingBanber app as a Free app. This SERVICE is provided by Brenden Salumbidez at no cost and is intended for use as is.
 
-The“BD-RollingBanner”app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and more personalized services, the “BD-RollingBanner” app will use and disclose your personal information in accordance with the provisions of this privacy policy. However, the “BD-RollingBanner” app will treat this information with a high level of diligence and prudence. Except as otherwise provided in this Privacy Policy, the “BD-RollingBanner” app will not disclose this information to external parties or provide it to third parties without your prior permission. The “BD-RollingBanner” app will update this Privacy Policy from time to time. When you agree to the "BD-RollingBanner" app service use agreement, you are deemed to have agreed to the full content of this Privacy Policy. This Privacy Policy is an integral part of the "BD-RollingBanner" app service usage agreement.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Scope of application
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-(a) User's personal data obtained by a “BD-RollingBanner” app from a business partner through legal means.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BD-RollingBanber unless otherwise defined in this Privacy Policy.
 
-Use of information
+Information Collection and Use
 
-( a) The “BD-RollingBanner” app will not provide, sell, rent, share, or trade your personal information to any unrelated third party unless you have obtained your prior permission, or if the third party and the “BD-RollingBanner” app (including “BD-RollingBanner” "App affiliates" provide services to you individually or jointly, and after the service is over, they will be banned from accessing all of these materials that they have previously been able to access.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-(b) The “BD-RollingBanner” app also does not allow any third party to collect, edit, sell or distribute your personal information by any means. Any user of the “New Lifestyle” app platform is engaged in the above activities. Once discovered, our company has the right to immediately terminate the service agreement with the user.
+The app does use third party services that may collect information used to identify you.
 
-( c) For the purpose of serving users, the “BD-RollingBanner” app may use your personal information to provide you with information of interest to you, including but not limited to sending you products and services, or sharing information with our partners. So that they can send you information about their products and services (the latter requires your prior consent).
+Link to privacy policy of third party service providers used by the app
 
-Information Disclosure
+https://www.google.com/policies/privacy/
+Log Data
 
-Under the following circumstances, the “BD-RollingBanner” app will disclose your personal information in whole or in part based on your personal wishes or the provisions of the law:
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-(a) Disclosure to a third party with your prior consent;
+Cookies
 
-( b) To share your personal information with third parties in order to provide the products and services you request;
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-( c) Disclosure to a third party or an administrative or judicial body in accordance with the relevant provisions of the law or the requirements of the administrative or judicial bodies;
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-(d) If you have violated relevant laws, regulations or “BD-RollingBanner” app service agreement or related rules, you need to disclose to third parties;
 
-( e) If you are a competent IPR complainant and have filed a complaint, you should be asked by the complainant to disclose it to the respondent so that the parties can handle possible rights disputes;
+Security
 
-( f) Other “BD-RollingBanner” app deems appropriate disclosure based on laws, regulations or website policies.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-Information storage and exchange
+Links to Other Sites
 
-The “BD-RollingBanner” app collects information and information about you. Stored on the “BD-RollingBanner” app and/or its affiliate's servers. These information and materials may be sent to your country, region, or outside the country where the “BD-RollingBanner” app collects information and data and are accessed and stored outside the country. And show.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Information Security
+Children’s Privacy
 
-( a) The “BD-RollingBanner” app account has security protection. Please keep your username and password information safe. The "New Lifestyles" app will ensure that your information is not lost or misused or altered through security measures such as encrypting user passwords. Despite the aforementioned security measures, you are also asked to note that there are no "perfect security measures" on the information network.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
-Privacy Policy
+Changes to This Privacy Policy
 
-We do not collect and store in any form any information from your social network or sell it to advertising or other operating agencies. Personal information
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-When you share via a social network, you may be required to enter an account password. However, this information is managed by the iOS system. The App does not save the account password in any form. It does not collect and store your social network in any form. Any personal information. Privacy Policy Terms
+Contact Us
 
-By using this App, you agree to the terms and conditions of this Privacy Policy. If you do not agree with this policy, please do not use it. We reserve the right to change, modify, add or remove portions of this policy at any time. Please check this page regularly for any changes. If you continue to use our App for any subsequent changes to the posting of these terms will mean that you have accepted these adjustments.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hzdcgdyvrg@yahoo.com.
+
+
